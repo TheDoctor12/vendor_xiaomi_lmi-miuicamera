@@ -1,5 +1,4 @@
 # Miui
-ro.cust.test                      u:object_r:exported_system_prop:s0
 ro.product.locale                 u:object_r:exported_system_prop:s0
 ro.product.locale.                u:object_r:exported_system_prop:s0
 ro.product.marketname             u:object_r:build_prop:s0
